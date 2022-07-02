@@ -1,3 +1,6 @@
+#include <iostream>
+
+
 // Vector cross product of A x B, with components of i, j and k
 double cross_product(double Ai, double Aj, double Ak, double Bi, double Bj, double Bk){
     double i_comp = (Aj * Bk) - (Bj * Ak);
