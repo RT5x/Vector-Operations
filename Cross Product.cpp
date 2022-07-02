@@ -14,5 +14,5 @@ double cross_product(double Ai, double Aj, double Ak, double Bi, double Bj, doub
 }
 
 int main(){
-cross_product(1, 2, 3, 4, 5, 6);
+cross_product(1, 2, 3, 4, 5, 6);    // Change this to alter the vectors you are trying to cross
 }
